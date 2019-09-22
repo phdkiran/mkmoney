@@ -1,0 +1,15 @@
+[submodule "week3_fraud_detection/REST_API_for_fraud-detection"]
+	path = week3_fraud_detection/REST_API_for_fraud-detection
+	url = https://github.com/Z4ck404/REST_API_for_fraud-detection.git
+[submodule "week3_fraud_detection/fraud-detection"]
+	path = week3_fraud_detection/fraud-detection
+	url = https://github.com/yazanobeidi/fraud-detection.git
+[submodule "week3_fraud_detection/tf_serving_flask_app"]
+	path = week3_fraud_detection/tf_serving_flask_app
+	url = https://github.com/Vetal1977/tf_serving_flask_app.git
+[submodule "week4_xrays/ml-classifier-ui"]
+	path = week4_xrays/ml-classifier-ui
+	url = https://github.com/thekevinscott/ml-classifier-ui.git
+[submodule "week4_xrays/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning"]
+	path = week4_xrays/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning
+	url = https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning.git
